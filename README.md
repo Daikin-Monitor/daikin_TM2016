@@ -1,7 +1,7 @@
 # daikin_TM2016
 
-HACK Schematic and decode data from daikin Air
-\
+HACK Schematic and decode datas from daikin Air
+
 
 # Test V1
 ![](Pics/video.gif)
