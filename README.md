@@ -4,8 +4,7 @@ HACK Schematic and decode data from daikin Air
 \
 
 # Test V1
-
-[![Watch the video](Pics/1.jpg)](Pics/1817096883459359204.mp4)
+![Alt Text](Pics/video.gij)
 ![alt text](Pics/1.jpg)
 
 ![alt text](Pics/2.jpg)
